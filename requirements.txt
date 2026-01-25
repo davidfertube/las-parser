@@ -1,0 +1,8 @@
+gradio
+lasio
+pandas
+numpy
+plotly
+huggingface_hub
+python-dotenv
+pydantic
