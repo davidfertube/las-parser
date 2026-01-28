@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-**Well Log Data Parser** is a cloud-native ETL pipeline for LAS/DLIS well log files. It extracts high-fidelity well data, provides automated petrophysical assessment, and vectorizes output for seamless integration with enterprise RAG pipelines in Energy & Commodities operations.
+**Data Parser - Energy** is an experimental well log data parser for energy ETL pipelines, achieving 10x faster parsing than industry standard tools. This experiment explores optimized parsing of legacy LAS/DLIS formats, making well log data faster to integrate with modern systems despite the challenge of slow, difficult-to-parse legacy formats.
 
 ## System Architecture
 
